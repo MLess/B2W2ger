@@ -1,7 +1,7 @@
-\xf000봂\x0000プレイヤー　\xf000Ā\x0001\x0000さま
-\xf000봂\x0000イッシュちほうの　ポケモン\xfffe\xf000봂\x0000すべてを　つかまえた\xfffe\xf000봂\x0000いだいなこうせきを　たたえ\xfffe\xf000봂\x0000ここに　しょうめい　します
-ぜんこく　ポケモンずかんを\xfffeみごと　かんせい　させた\xfffeいだいなこうせきを　たたえ\xfffeここに　しょうめい　します
-\xf000봂\x0000ゲームフリーク\xfffe\xf000봂\x0000スタッフいちどう
-プレイヤー　\xf000Ā\x0001\x0000さま
-\xf000봃\x0001\x0000ゲームフリーク\xfffe\xf000봃\x0001\x0000スタッフいちどう
-ぜんこく　ポケモンずかんを\xfffeみごと　かんせい　させた\xfffeいだいなこうせきを　たたえ\xfffeここに　しょうめい　します
+\xf000봂\x0000SPIELER:　\xf000Ā\x0001\x0000さま
+\xf000봂\x0000Dieses Dokument bestätigt, dass\xfffe\xf000봂\x0000du die großartige Leistung erbracht hast,\xfffe\xf000봂\x0000alle Pokémon der Unova-Region zu fangen.
+Dieses Dokument bestätigt,\xfffedass du den National Pokédex\xfffeerfolgreich vervollständigt hast.
+\xf000봂\x0000GAME FREAK\xfffe\xf000봂\x0000Das gesamte Team
+SPIELER:　\xf000Ā\x0001\x0000さま
+\xf000봃\x0001\x0000GAME FREAK\xfffe\xf000봃\x0001\x0000Das gesamte Team
+Dieses Dokument bestätigt,\xfffedass du den National Pokédex\xfffeerfolgreich vervollständigt hast.
