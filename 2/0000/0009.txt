@@ -1,8 +1,8 @@
-しょていの　いちに　ついて\xfffeたいせんを　はじめてください
-しばらく　おまちください\xfffe……Ｂボタン　キャンセル
-それでは　さんかする　ポケモンを\xfffe３ひき　えらんで　ください\xf000븁\x0000
-それでは　さんかする　ポケモンを\xfffe４ひき　えらんで　ください\xf000븁\x0000
-それでは　さんかする　ポケモンを\xfffe６ひき　えらんで　ください\xf000븁\x0000
-たいせんを　しゅうりょう　しますが\xfffeよろしいですか？
-たいせんを　しゅうりょう　します\xfffeしばらく　おまちください
-\xf000Ā\x0001\x0000の　トレーナーケースを\xfffeみせてもらった！
+Bitte gehe in Stellung\xfffeum den Kampf zu starten.
+Bitte warten.\xfffe...B Knopf: Abbrechen
+Wähle jetzt 3 teilzunehmende\xfffePokémon aus.\xf000븁\x0000
+Wähle jetzt 4 teilzunehmende\xfffePokémon aus.\xf000븁\x0000
+Wähle jetzt 6 teilzunehmende\xfffePokémon aus.\xf000븁\x0000
+Willst du den Kampf\xfffeabbrechen?
+Kampf wird abgebrochen.\xfffeBitte warten...
+\xf000Ā\x0001\x0000's Trainer-Pass\xfffewurde dir gezeigt!
