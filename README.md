@@ -1,7 +1,7 @@
 B2W2ger
 =======
 
-Pokemon Black2 �& White2 German Translation by PokeStation
+Pokemon Black2 & White2 German Translation by PokeStation
 
 Contributors:
 Kyohack
@@ -12,17 +12,14 @@ Thechandrians
 
 Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
 
-Important Stuff (Zu beachten!)
+Important Stuff (zu beachten!)
 ==============================
 
-Hello this information will be written in german:
+Hello everybody, this information will be written in german:
 
 Hallo Übersetzer,
 
-(Kyohack wird ein Programm entwickeln, dass die alten Sachen von BW1 rüber zu BW2 anpasst. Dieses Programm hat keinen Einfluss auf den deutschen Patch, also bleiben uns nach wie vor 1100 Files übrig.)
-
-da es uns allen nur um die möglichst baldige Veröffentlichung des deutschen Patches geht,
-ist diese Information essenziell für euch.
+da es uns allen nur um die möglichst baldige Veröffentlichung des deutschen Patches geht, ist diese Information essenziell für euch.
 
 Pass Power= Transferfähigkeiten
 Pass Power kommt aus BW1eng und bedeutet Transferfähigkeiten. Das wird in der Kontaktebene benutzt. 
@@ -43,4 +40,4 @@ To-Do-List: Official Translation To-Do-List of B2W2ger: http://pastebin.com/uZZs
 
 Viel Spass beim Übersetzen
 
-PS: Achtet auf Rechtschreibung. Im Gegensatz zu Kyohack sehe ich(Thechandrians) eure Fehler...
+PS: Achtet auf Rechtschreibung. MLess is watching you!
