@@ -1,20 +1,20 @@
-バトルたいかい　へ\xfffeようこそ！
-バトルたいかいには\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeおこなわれる　Ｗｉ－Ｆｉたいかいと\xf000븁\x0000\xfffeイベントかいじょうで　おこなわれる\xfffeライブたいかいが　あります\xf000븁\x0000\xfffeさんかする　ポケモンは\xfffeバトルボックスに　とうろく　している\xf000븀\x0000\xfffeポケモンです\xf000븁\x0000\xfffeいちど　たいかいに　とうろく　すると\xfffeたいかい　さんかちゅうは\xf000븀\x0000\xfffeバトルボックスを\xf000븀\x0000\xfffeへんこう　できなくなるので\xf000븀\x0000\xfffeちゅうい　してください\xf000븁\x0000\xfffeたいかいに　さんかすると\xfffeデジタルせんしゅしょう　に\xf000븀\x0000\xfffeデータが　とうろく　されるので\xf000븀\x0000\xfffeかくにん　してみてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　へ
-ライブたいかい　へ
-デジタルせんしゅしょうを　みる
-せつめいを　きく
-やめる
-さんかする
-Ｗｉ－Ｆｉたいかいは\xfffeおてもとの　パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスし\xf000븁\x0000\xfffeとうろく　することで\xfffeたいかいに　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケモングローバルリンク\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000\xfffeまた　Ｗｉ－Ｆｉたいかいや\xfffeランダムマッチの　さんかちゅうに\xf000븁\x0000\xfffeほんたいの　でんげんが　きれると\xfffe１じかん　たいかいや\xf000븀\x0000\xfffeランダムマッチで　たいせんが\xf000븀\x0000\xfffeできなくなります\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
-たいかいへ　さんかするのを\xfffeやめますか？
-はい
-いいえ
-さんかを　かいじょする
-ライブたいかいに\xfffeさんか　しますか？
-ライブたいかいの\xfffeかいさいじょうほうに　ついては\xf000븀\x0000\xfffeポケットモンスターオフィシャルサイトで\xf000븀\x0000\xfffeかくにん　することが　できます\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeたいかいのルールや　かいさいきかんは\xfffeポケットモンスターオフィシャルサイト\xf000븀\x0000\xfffeホームページで　かくにんしてください\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　または\xfffeランダムマッチの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeたいかいや　ランダムマッチで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
-\xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！\xf000븁\x0000
+Willkommen  zum\xfffeKampf Wettbewerb!
+Es gibt zwei Arten der Kampf Wettbewerben.\xfffeEiner davon ist der Wi-Fi Wettbewerb, welcher\xf000?\x0000\xfffeüber die Nintendo Wi-Fi Connection läuft, der\xf000?\x0000\zweite ist der Live Wettbewerb, welcher\xf000?\x0000\xfffenur bei bestimmten Ereignissen ausgeführt werden kann.\xf000?\x0000\xfffeNur Pokémon, die in deiner\xfffeKampf Box registriert sind können teilnehmen.\xf000?\x0000\xfffeSobald du dein Pokémon registriert hast\xfffekannst du es nicht mehr in eine andere\xf000?\x0000\Kampf Box verschieben.\xf000?\x0000\xfffeWenn du an einem Wettbewerb teilnimmst,\xfffewird deine digitale Player-ID aktuallisiert.\xf000?\x0000\xfffeBitte überprüfe sie.\xf000?\x0000
+Zum Wi-Fi Wettbewerb
+Zum Live-Wettbewerb
+Überprüfe deine Digitale Player ID
+Information
+Zurück
+Teilnehmen
+Um am Wi-Fi Wettbewerb teilnehmen zu können,\xfffemusst du die Website\xf000븀\x0000\xfffedes Pokémon Global Link aufrufen.\xf000븀\x0000\xfffehttp://www.de.pokemon-gl.com\xf000븁\x0000\xfffeBitte besuche die Pokémon Global Link Website\xfffeum Informationen über seine Dauer,\xf000븀\x0000\xfffedas Wettbewerbsrecht und anderes zu erhalten.\xf000븁\x0000
+Willst du am Wi-Fi Wettbewerb\xfffeteilnehmen?
+Willst du den Wi-Fi Wettbewerb\xfffebeenden?
+Ja
+Nein
+Teilnahme abbrechen
+Willst du am Live-Wettbewerb\xfffeteilnehmen?
+Du kannst weitere Informationen\xffeüber den Live-Wettbewerb auf der offiziellen\xffePokémon Website http://www.pokemon.de herauslesen.\xf000븁\x0000\xfffeBitte besuche die offizielle Pokémon Website\xfffeum Informationen über seine Dauer,\xf000븀\x0000\xfffedas Wettbewerbsrecht und anderes zu erhalten.\xf000븁\x0000
+Wenn dein Akku während dem Turnier\xfffeoder einem zufälligen Wi-Fi Match aus geht\xf000븁\x0000\xfffesolltest du es innerhalb der\xf000븀\x0000\xfffenächsten Stunde erneut veruchen.\xf000븁\x0000
+\xfffeSpeichervorgang! Bitte das Gerät nicht ausschalten!
+Battle Points werden am Ende\xfffedes Wettbewerbs ausgehändigt.
+\xf000Ā\x0001\x0000hat \xfffe\xf000ȁ\x0001\x0001BP erhalten! \xf000븁\x0000
